@@ -1,4 +1,0 @@
-# coding: utf-8
-
-data = int(inp
-print("%d を量子化すると %d になります。" %(data, int((data / 10) + 0.5)))
